@@ -3,9 +3,8 @@ package src.abc123;
 public class Hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		aysa
-
+		System.out.println("안녕;
+	
 	}
 
 }
